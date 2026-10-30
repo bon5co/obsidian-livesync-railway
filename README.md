@@ -1,5 +1,9 @@
 # obsidian-livesync-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/obsidian-livesync-couchdb-v3521-or-admin?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Obsidian LiveSync CouchDB template](https://railway.com/deploy/obsidian-livesync-couchdb-v3521-or-admin?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for running [Apache CouchDB](https://couchdb.apache.org/) on
 [Railway](https://railway.com) as a sync server for the
 [Obsidian Self-hosted LiveSync](https://github.com/vrtmrz/obsidian-livesync) plugin.
